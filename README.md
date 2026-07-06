@@ -1,5 +1,7 @@
 # AegisHunt: Automated Incident Response & Threat Hunting System
 
+![AegisHunt Project Thumbnail](assets/project_thumbnail.png)
+
 AegisHunt is a Python-based multi-agent security framework designed for Automated Incident Response and Threat Hunting. This project was developed as a 5-day capstone implementation utilizing a lightweight, custom async state machine orchestration pattern.
 
 ---
