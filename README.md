@@ -19,6 +19,12 @@ graph TD
     E -->|Execute Sandbox Operations| F[SandboxMitigationTool]
 ```
 
+### 🖥️ SOC Dashboard Preview
+
+Here is a preview of the active multi-agent system analyzing and mitigating a reverse shell attack in real-time on the SOC Dashboard:
+
+![AegisHunt SOC Dashboard Demo](assets/dashboard_demo.webp)
+
 ### 👥 Specialized Agents
 1. **Agent A: Log Analyst & Triage Router** (`agents/log_analyst.py`):
    - Scans server log streams in real-time.
